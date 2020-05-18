@@ -440,7 +440,7 @@
                 va = !0
             }
         }
-        va || (Pa ? console.log() : Ma && (console.log("mobile"))
+        va || (Pa ? window.location.href = "https://itunes.apple.com/us/app/mope.io/id1086471119?ls=1&mt=8" : Ma && (window.location.href = "https://play.google.com/store/apps/details?id=tatarnykov.stan.mopeioandroid"))
     }
     var Aa = "ontouchstart"in window || navigator.maxTouchPoints;
     Aa && console.log("mobile touch device detected!");
